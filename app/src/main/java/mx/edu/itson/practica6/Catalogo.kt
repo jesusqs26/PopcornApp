@@ -11,8 +11,6 @@ import android.widget.GridView
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import mx.edu.itson.potros.practicaó.Pelicula
-import mx.edu.itson.potros.practicaó.DetallePelicula
 
 class Catalogo : AppCompatActivity() {
     var adapter: PeliculaAdapter? = null

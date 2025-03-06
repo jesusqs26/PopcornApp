@@ -1,4 +1,4 @@
-package mx.edu.itson.potros.practicaó
+package mx.edu.itson.practica6
 
 import android.os.Bundle
 import android.widget.ImageView

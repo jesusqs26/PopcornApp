@@ -18,7 +18,7 @@
             android:label="@string/title_activity_catalogo"
             android:theme="@style/Theme.Practica6" />
         <activity
-            android:name="mx.edu.itson.potros.practicaó.DetallePelicula"
+            android:name=".DetallePelicula"
             android:exported="false"
             android:label="@string/title_activity_detalle_pelicula"
             android:theme="@style/Theme.Practica6" />
