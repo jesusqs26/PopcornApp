@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica6</string>
+    <string name="welcome">Welcome to Popcorn Factory, home of the best series and movies.
+    Just lay down, make some popcorn and enjoy !</string>
+    <string name="getMeIn">GET ME IN !</string>
+    <string name="title_activity_detalle_pelicula">detalle_pelicula</string>
+    <string name="title_activity_catalogo">Catalogo</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
