@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/black"
-    tools:context=".Catalogo">
+    tools:context=".Catalogo"
+    tools:ignore="VisualLintBounds">
 
     <LinearLayout
         android:layout_width="wrap_content"
